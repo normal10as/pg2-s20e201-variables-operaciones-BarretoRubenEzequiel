@@ -1,0 +1,13 @@
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoVb\CotizaciónTerrenoVb\bin\Debug\netcoreapp3.1\CotizaciónTerrenoVb.exe
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoVb\CotizaciónTerrenoVb\bin\Debug\netcoreapp3.1\CotizaciónTerrenoVb.deps.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoVb\CotizaciónTerrenoVb\bin\Debug\netcoreapp3.1\CotizaciónTerrenoVb.runtimeconfig.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoVb\CotizaciónTerrenoVb\bin\Debug\netcoreapp3.1\CotizaciónTerrenoVb.runtimeconfig.dev.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoVb\CotizaciónTerrenoVb\bin\Debug\netcoreapp3.1\CotizaciónTerrenoVb.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoVb\CotizaciónTerrenoVb\bin\Debug\netcoreapp3.1\CotizaciónTerrenoVb.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoVb\CotizaciónTerrenoVb\obj\Debug\netcoreapp3.1\CotizaciónTerrenoVb.vbprojAssemblyReference.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoVb\CotizaciónTerrenoVb\obj\Debug\netcoreapp3.1\CotizaciónTerrenoVb.vbproj.CoreCompileInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoVb\CotizaciónTerrenoVb\obj\Debug\netcoreapp3.1\CotizaciónTerrenoVb.AssemblyInfoInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoVb\CotizaciónTerrenoVb\obj\Debug\netcoreapp3.1\CotizaciónTerrenoVb.AssemblyInfo.vb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoVb\CotizaciónTerrenoVb\obj\Debug\netcoreapp3.1\CotizaciónTerrenoVb.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoVb\CotizaciónTerrenoVb\obj\Debug\netcoreapp3.1\CotizaciónTerrenoVb.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoVb\CotizaciónTerrenoVb\obj\Debug\netcoreapp3.1\CotizaciónTerrenoVb.genruntimeconfig.cache
