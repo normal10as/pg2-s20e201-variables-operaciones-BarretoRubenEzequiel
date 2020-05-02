@@ -1,0 +1,12 @@
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCírculoVb\bin\Debug\netcoreapp3.1\ÁreaCírculoVb.exe
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCírculoVb\bin\Debug\netcoreapp3.1\ÁreaCírculoVb.deps.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCírculoVb\bin\Debug\netcoreapp3.1\ÁreaCírculoVb.runtimeconfig.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCírculoVb\bin\Debug\netcoreapp3.1\ÁreaCírculoVb.runtimeconfig.dev.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCírculoVb\bin\Debug\netcoreapp3.1\ÁreaCírculoVb.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCírculoVb\bin\Debug\netcoreapp3.1\ÁreaCírculoVb.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCírculoVb\obj\Debug\netcoreapp3.1\ÁreaCírculoVb.vbproj.CoreCompileInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCírculoVb\obj\Debug\netcoreapp3.1\ÁreaCírculoVb.AssemblyInfoInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCírculoVb\obj\Debug\netcoreapp3.1\ÁreaCírculoVb.AssemblyInfo.vb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCírculoVb\obj\Debug\netcoreapp3.1\ÁreaCírculoVb.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCírculoVb\obj\Debug\netcoreapp3.1\ÁreaCírculoVb.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCírculoVb\obj\Debug\netcoreapp3.1\ÁreaCírculoVb.genruntimeconfig.cache
