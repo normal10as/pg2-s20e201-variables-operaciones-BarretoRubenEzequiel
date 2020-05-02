@@ -1,0 +1,12 @@
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasHorasCs\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.exe
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasHorasCs\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.deps.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasHorasCs\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.runtimeconfig.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasHorasCs\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.runtimeconfig.dev.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasHorasCs\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasHorasCs\EquivalenciasHorasCs\bin\Debug\netcoreapp3.1\EquivalenciasHorasCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasHorasCs\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.csproj.CoreCompileInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasHorasCs\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.AssemblyInfoInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasHorasCs\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.AssemblyInfo.cs
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasHorasCs\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasHorasCs\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasHorasCs\EquivalenciasHorasCs\obj\Debug\netcoreapp3.1\EquivalenciasHorasCs.genruntimeconfig.cache
