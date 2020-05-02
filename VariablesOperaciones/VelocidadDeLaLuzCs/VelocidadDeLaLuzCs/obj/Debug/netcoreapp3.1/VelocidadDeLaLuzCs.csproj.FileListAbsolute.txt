@@ -1,0 +1,12 @@
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\VelocidadDeLaLuzCs\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.exe
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\VelocidadDeLaLuzCs\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.deps.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\VelocidadDeLaLuzCs\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.runtimeconfig.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\VelocidadDeLaLuzCs\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.runtimeconfig.dev.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\VelocidadDeLaLuzCs\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\VelocidadDeLaLuzCs\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\VelocidadDeLaLuzCs\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.csproj.CoreCompileInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\VelocidadDeLaLuzCs\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.AssemblyInfoInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\VelocidadDeLaLuzCs\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.AssemblyInfo.cs
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\VelocidadDeLaLuzCs\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\VelocidadDeLaLuzCs\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\VelocidadDeLaLuzCs\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.genruntimeconfig.cache
