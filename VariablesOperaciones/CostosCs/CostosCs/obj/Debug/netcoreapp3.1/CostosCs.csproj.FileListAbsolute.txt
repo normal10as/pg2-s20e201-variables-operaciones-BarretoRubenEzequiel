@@ -1,0 +1,13 @@
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosCs\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.exe
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosCs\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.deps.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosCs\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.runtimeconfig.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosCs\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.runtimeconfig.dev.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosCs\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosCs\CostosCs\bin\Debug\netcoreapp3.1\CostosCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosCs\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.csprojAssemblyReference.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosCs\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.csproj.CoreCompileInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosCs\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.AssemblyInfoInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosCs\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.AssemblyInfo.cs
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosCs\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosCs\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosCs\CostosCs\obj\Debug\netcoreapp3.1\CostosCs.genruntimeconfig.cache
