@@ -1,0 +1,13 @@
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCirculoCs\ÁreaCirculoCs\bin\Debug\netcoreapp3.1\ÁreaCirculoCs.exe
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCirculoCs\ÁreaCirculoCs\bin\Debug\netcoreapp3.1\ÁreaCirculoCs.deps.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCirculoCs\ÁreaCirculoCs\bin\Debug\netcoreapp3.1\ÁreaCirculoCs.runtimeconfig.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCirculoCs\ÁreaCirculoCs\bin\Debug\netcoreapp3.1\ÁreaCirculoCs.runtimeconfig.dev.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCirculoCs\ÁreaCirculoCs\bin\Debug\netcoreapp3.1\ÁreaCirculoCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCirculoCs\ÁreaCirculoCs\bin\Debug\netcoreapp3.1\ÁreaCirculoCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCirculoCs\ÁreaCirculoCs\obj\Debug\netcoreapp3.1\ÁreaCirculoCs.csprojAssemblyReference.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCirculoCs\ÁreaCirculoCs\obj\Debug\netcoreapp3.1\ÁreaCirculoCs.csproj.CoreCompileInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCirculoCs\ÁreaCirculoCs\obj\Debug\netcoreapp3.1\ÁreaCirculoCs.AssemblyInfoInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCirculoCs\ÁreaCirculoCs\obj\Debug\netcoreapp3.1\ÁreaCirculoCs.AssemblyInfo.cs
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCirculoCs\ÁreaCirculoCs\obj\Debug\netcoreapp3.1\ÁreaCirculoCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCirculoCs\ÁreaCirculoCs\obj\Debug\netcoreapp3.1\ÁreaCirculoCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\ÁreaCirculoCs\ÁreaCirculoCs\obj\Debug\netcoreapp3.1\ÁreaCirculoCs.genruntimeconfig.cache
