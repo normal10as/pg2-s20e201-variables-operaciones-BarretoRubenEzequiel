@@ -1,0 +1,12 @@
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónDólarCs\CotizaciónDólarCs\bin\Debug\netcoreapp3.1\CotizaciónDólarCs.exe
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónDólarCs\CotizaciónDólarCs\bin\Debug\netcoreapp3.1\CotizaciónDólarCs.deps.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónDólarCs\CotizaciónDólarCs\bin\Debug\netcoreapp3.1\CotizaciónDólarCs.runtimeconfig.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónDólarCs\CotizaciónDólarCs\bin\Debug\netcoreapp3.1\CotizaciónDólarCs.runtimeconfig.dev.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónDólarCs\CotizaciónDólarCs\bin\Debug\netcoreapp3.1\CotizaciónDólarCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónDólarCs\CotizaciónDólarCs\bin\Debug\netcoreapp3.1\CotizaciónDólarCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónDólarCs\CotizaciónDólarCs\obj\Debug\netcoreapp3.1\CotizaciónDólarCs.csproj.CoreCompileInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónDólarCs\CotizaciónDólarCs\obj\Debug\netcoreapp3.1\CotizaciónDólarCs.AssemblyInfoInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónDólarCs\CotizaciónDólarCs\obj\Debug\netcoreapp3.1\CotizaciónDólarCs.AssemblyInfo.cs
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónDólarCs\CotizaciónDólarCs\obj\Debug\netcoreapp3.1\CotizaciónDólarCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónDólarCs\CotizaciónDólarCs\obj\Debug\netcoreapp3.1\CotizaciónDólarCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónDólarCs\CotizaciónDólarCs\obj\Debug\netcoreapp3.1\CotizaciónDólarCs.genruntimeconfig.cache
