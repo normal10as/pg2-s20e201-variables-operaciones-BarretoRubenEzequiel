@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\EzeBar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\EzeBar\\.nuget\\packages"
+    ]
+  }
+}
