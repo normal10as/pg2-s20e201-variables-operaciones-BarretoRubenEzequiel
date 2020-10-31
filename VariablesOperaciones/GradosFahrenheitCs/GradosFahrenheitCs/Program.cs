@@ -7,7 +7,7 @@ namespace GradosFahrenheitCs
         static void Main(string[] args)
         {
             ulong grados;
-            double Kelvin = 273.15;
+            const double Kelvin = 273.15;
             double R;
 
             Console.Write("Ingrese los grados en °C: ");

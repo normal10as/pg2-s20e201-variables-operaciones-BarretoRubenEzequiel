@@ -3,7 +3,7 @@ Imports System
 Module Program
     Sub Main(args As String())
         Dim grados As Integer
-        Dim Kelvin As Double = 273.15
+        Const Kelvin As Double = 273.15
         Dim R As Double
 
         Console.Write("Ingrese los grados en °C: ")

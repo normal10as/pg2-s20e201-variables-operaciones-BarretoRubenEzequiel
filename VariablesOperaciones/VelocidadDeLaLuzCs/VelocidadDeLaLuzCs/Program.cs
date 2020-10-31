@@ -7,7 +7,7 @@ namespace VelocidadDeLaLuzCs
         static void Main(string[] args)
         {
             ulong segundos, R;
-            ulong distancia = 300000;
+            const ulong distancia = 300000;
 
             Console.Write("Ingrese el valor del tiempo en segundos: ");
             segundos = Convert.ToUInt64(Console.ReadLine());

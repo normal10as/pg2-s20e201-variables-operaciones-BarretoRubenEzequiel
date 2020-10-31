@@ -3,7 +3,7 @@ Imports System
 Module Program
     Sub Main(args As String())
         Dim segundos, R As Integer
-        Dim distancia As ULong = 300000
+        Const distancia As ULong = 300000
 
         Console.Write("Ingrese el valor del tiempo en segundos: ")
         segundos = Console.ReadLine()
