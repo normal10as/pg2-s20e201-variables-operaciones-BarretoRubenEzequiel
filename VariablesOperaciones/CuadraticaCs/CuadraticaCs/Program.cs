@@ -6,9 +6,9 @@ namespace CuadraticaCs
     {
         static void Main(string[] args)
         {
-            byte a = 1;
-            byte b = 5;
-            byte c = 2;
+            const byte a = 1;
+            const byte b = 5;
+            const byte c = 2;
             double x;
 
 

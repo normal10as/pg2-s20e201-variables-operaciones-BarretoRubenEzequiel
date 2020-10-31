@@ -8,9 +8,9 @@ namespace EquivalenciasHorasCs
         {
             double segundos, minutos, horas, dias;
 
-            ushort Valorsegundos = 3600;
-            byte ValorMinutos = 60;
-            byte ValorDias = 24;
+            const ushort Valorsegundos = 3600;
+            const byte ValorMinutos = 60;
+            const byte ValorDias = 24;
 
             Console.Write("Ingrese la cantidad de horas a calcular: ");
             horas = Convert.ToUInt32(Console.ReadLine());

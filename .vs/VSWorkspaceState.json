@@ -2,8 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\VariablesOperaciones",
-    "\\VariablesOperaciones\\ÁreaCírculoVb"
+    "\\VariablesOperaciones\\CostosVb\\CostosVb",
+    "\\VariablesOperaciones\\CotizaciónTerrenoVb\\CotizaciónTerrenoVb",
+    "\\VariablesOperaciones\\CuadraticaVb\\CuadraticaVb",
+    "\\VariablesOperaciones\\EquivalenciasHorasCs\\EquivalenciasHorasCs",
+    "\\VariablesOperaciones\\EquivalenciasHorasVb\\EquivalenciasHorasVb",
+    "\\VariablesOperaciones\\EquivalenciasPiesCs",
+    "\\VariablesOperaciones\\EquivalenciasPiesCs\\EquivalenciasPiesCs",
+    "\\VariablesOperaciones\\EquivalenciasPiesVb\\EquivalenciasPiesVb"
   ],
-  "SelectedNode": "\\VariablesOperaciones\\VariablesOperaciones.sln",
+  "SelectedNode": "\\VariablesOperaciones\\EquivalenciasPiesCs\\EquivalenciasPiesCs.sln",
   "PreviewInSolutionExplorer": false
 }

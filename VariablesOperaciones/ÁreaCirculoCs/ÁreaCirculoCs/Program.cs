@@ -8,7 +8,7 @@ namespace ÁreaCirculoCs
         {
             double radio;
             double area;
-            double Pi = 3.14;
+            const double Pi = 3.14;
 
             Console.Write("Ingrese el radio de un círculo: ");
             radio = Convert.ToDouble(Console.ReadLine());

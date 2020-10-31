@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Github\\operaciones variantes\\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\\VariablesOperaciones\\CostosCs\\CostosCs\\CostosCs.csproj",
+      "projectUniqueName": "C:\\Users\\EzeBar\\Source\\Repos\\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\\VariablesOperaciones\\CostosCs\\CostosCs\\CostosCs.csproj",
       "projectName": "CostosCs",
-      "projectPath": "E:\\Github\\operaciones variantes\\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\\VariablesOperaciones\\CostosCs\\CostosCs\\CostosCs.csproj",
+      "projectPath": "C:\\Users\\EzeBar\\Source\\Repos\\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\\VariablesOperaciones\\CostosCs\\CostosCs\\CostosCs.csproj",
       "packagesPath": "C:\\Users\\EzeBar\\.nuget\\packages\\",
-      "outputPath": "E:\\Github\\operaciones variantes\\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\\VariablesOperaciones\\CostosCs\\CostosCs\\obj\\",
+      "outputPath": "C:\\Users\\EzeBar\\Source\\Repos\\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\\VariablesOperaciones\\CostosCs\\CostosCs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EzeBar\\AppData\\Roaming\\NuGet\\NuGet.Config",

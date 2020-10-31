@@ -8,8 +8,8 @@ namespace CostosCs
         {
             string descrip;
             uint unidad;
-            double factorC = 3.5;
-            uint Costof = 10700;
+            const double factorC = 3.5;
+            const uint Costof = 10700;
             double costo;
             Console.Write("Ingrese la el nombre del ArtÍculo a fabricar: ");
             descrip = Console.ReadLine();

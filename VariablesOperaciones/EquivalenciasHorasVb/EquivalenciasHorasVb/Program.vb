@@ -9,9 +9,9 @@ Module Program
         Dim Valorsegundos As Integer
         Dim ValorMinutos As Integer
         Dim ValorDias As Integer
-        Valorsegundos = 3600
-        ValorMinutos = 60
-        ValorDias = 24
+        Const Valorsegundos = 3600
+        Const ValorMinutos = 60
+        Const ValorDias = 24
 
         Console.Write("Ingrese la cantidad de horas a calcular: ")
         horas = Console.ReadLine()

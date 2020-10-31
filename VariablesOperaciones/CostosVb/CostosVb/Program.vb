@@ -4,8 +4,8 @@ Module Program
     Sub Main(args As String())
         Dim descrip As String
         Dim costo, unidad As Integer
-        Dim factorC As Double = 3.5
-        Dim Costof As Integer = 10700
+        Const factorC As Double = 3.5
+        Const Costof As Integer = 10700
 
         Console.Write("Ingrese la el nombre del ArtÍculo a fabricar: ")
         descrip = Console.ReadLine()

@@ -8,10 +8,10 @@ namespace EquivalenciasPiesCs
         {
 
             ulong Pie, Totalpul, yardas;
-            byte pulgadas = 12;
-            byte yarda = 3;
-            double UNApulgada = 2.54;
-            byte UNmetro = 100;
+            const yte pulgadas = 12;
+            const byte yarda = 3;
+            const double UNApulgada = 2.54;
+            const byte UNmetro = 100;
             double centimetros, metros;
             Console.Write("Ingrese una distancia medida en pies: ");
             Pie = Convert.ToUInt16(Console.ReadLine());
