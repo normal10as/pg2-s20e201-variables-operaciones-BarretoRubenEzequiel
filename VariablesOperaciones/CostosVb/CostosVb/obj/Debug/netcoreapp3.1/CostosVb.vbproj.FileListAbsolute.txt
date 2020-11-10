@@ -1,0 +1,12 @@
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosVb\CostosVb\bin\Debug\netcoreapp3.1\CostosVb.exe
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosVb\CostosVb\bin\Debug\netcoreapp3.1\CostosVb.deps.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosVb\CostosVb\bin\Debug\netcoreapp3.1\CostosVb.runtimeconfig.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosVb\CostosVb\bin\Debug\netcoreapp3.1\CostosVb.runtimeconfig.dev.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosVb\CostosVb\bin\Debug\netcoreapp3.1\CostosVb.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosVb\CostosVb\bin\Debug\netcoreapp3.1\CostosVb.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosVb\CostosVb\obj\Debug\netcoreapp3.1\CostosVb.vbproj.CoreCompileInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosVb\CostosVb\obj\Debug\netcoreapp3.1\CostosVb.AssemblyInfoInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosVb\CostosVb\obj\Debug\netcoreapp3.1\CostosVb.AssemblyInfo.vb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosVb\CostosVb\obj\Debug\netcoreapp3.1\CostosVb.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosVb\CostosVb\obj\Debug\netcoreapp3.1\CostosVb.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CostosVb\CostosVb\obj\Debug\netcoreapp3.1\CostosVb.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CuadraticaVb\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.exe
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CuadraticaVb\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.deps.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CuadraticaVb\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.runtimeconfig.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CuadraticaVb\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.runtimeconfig.dev.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CuadraticaVb\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CuadraticaVb\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CuadraticaVb\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.vbprojAssemblyReference.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CuadraticaVb\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.vbproj.CoreCompileInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CuadraticaVb\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.AssemblyInfoInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CuadraticaVb\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.AssemblyInfo.vb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CuadraticaVb\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CuadraticaVb\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CuadraticaVb\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.genruntimeconfig.cache

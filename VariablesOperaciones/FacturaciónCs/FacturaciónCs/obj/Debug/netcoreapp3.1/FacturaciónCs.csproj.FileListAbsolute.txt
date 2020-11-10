@@ -1,0 +1,12 @@
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\FacturaciónCs\FacturaciónCs\bin\Debug\netcoreapp3.1\FacturaciónCs.exe
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\FacturaciónCs\FacturaciónCs\bin\Debug\netcoreapp3.1\FacturaciónCs.deps.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\FacturaciónCs\FacturaciónCs\bin\Debug\netcoreapp3.1\FacturaciónCs.runtimeconfig.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\FacturaciónCs\FacturaciónCs\bin\Debug\netcoreapp3.1\FacturaciónCs.runtimeconfig.dev.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\FacturaciónCs\FacturaciónCs\bin\Debug\netcoreapp3.1\FacturaciónCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\FacturaciónCs\FacturaciónCs\bin\Debug\netcoreapp3.1\FacturaciónCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\FacturaciónCs\FacturaciónCs\obj\Debug\netcoreapp3.1\FacturaciónCs.csproj.CoreCompileInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\FacturaciónCs\FacturaciónCs\obj\Debug\netcoreapp3.1\FacturaciónCs.AssemblyInfoInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\FacturaciónCs\FacturaciónCs\obj\Debug\netcoreapp3.1\FacturaciónCs.AssemblyInfo.cs
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\FacturaciónCs\FacturaciónCs\obj\Debug\netcoreapp3.1\FacturaciónCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\FacturaciónCs\FacturaciónCs\obj\Debug\netcoreapp3.1\FacturaciónCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\FacturaciónCs\FacturaciónCs\obj\Debug\netcoreapp3.1\FacturaciónCs.genruntimeconfig.cache

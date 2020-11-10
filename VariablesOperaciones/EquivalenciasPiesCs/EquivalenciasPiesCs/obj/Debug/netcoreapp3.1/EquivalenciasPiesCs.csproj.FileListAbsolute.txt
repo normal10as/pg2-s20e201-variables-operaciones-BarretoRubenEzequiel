@@ -1,0 +1,13 @@
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasPiesCs\EquivalenciasPiesCs\bin\Debug\netcoreapp3.1\EquivalenciasPiesCs.exe
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasPiesCs\EquivalenciasPiesCs\bin\Debug\netcoreapp3.1\EquivalenciasPiesCs.deps.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasPiesCs\EquivalenciasPiesCs\bin\Debug\netcoreapp3.1\EquivalenciasPiesCs.runtimeconfig.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasPiesCs\EquivalenciasPiesCs\bin\Debug\netcoreapp3.1\EquivalenciasPiesCs.runtimeconfig.dev.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasPiesCs\EquivalenciasPiesCs\bin\Debug\netcoreapp3.1\EquivalenciasPiesCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasPiesCs\EquivalenciasPiesCs\bin\Debug\netcoreapp3.1\EquivalenciasPiesCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasPiesCs\EquivalenciasPiesCs\obj\Debug\netcoreapp3.1\EquivalenciasPiesCs.csprojAssemblyReference.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasPiesCs\EquivalenciasPiesCs\obj\Debug\netcoreapp3.1\EquivalenciasPiesCs.csproj.CoreCompileInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasPiesCs\EquivalenciasPiesCs\obj\Debug\netcoreapp3.1\EquivalenciasPiesCs.AssemblyInfoInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasPiesCs\EquivalenciasPiesCs\obj\Debug\netcoreapp3.1\EquivalenciasPiesCs.AssemblyInfo.cs
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasPiesCs\EquivalenciasPiesCs\obj\Debug\netcoreapp3.1\EquivalenciasPiesCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasPiesCs\EquivalenciasPiesCs\obj\Debug\netcoreapp3.1\EquivalenciasPiesCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\EquivalenciasPiesCs\EquivalenciasPiesCs\obj\Debug\netcoreapp3.1\EquivalenciasPiesCs.genruntimeconfig.cache

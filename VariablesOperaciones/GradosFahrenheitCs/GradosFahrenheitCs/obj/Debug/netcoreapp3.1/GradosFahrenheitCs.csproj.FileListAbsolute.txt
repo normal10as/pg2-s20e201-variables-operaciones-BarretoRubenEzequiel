@@ -1,0 +1,13 @@
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\GradosFahrenheitCs\GradosFahrenheitCs\bin\Debug\netcoreapp3.1\GradosFahrenheitCs.exe
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\GradosFahrenheitCs\GradosFahrenheitCs\bin\Debug\netcoreapp3.1\GradosFahrenheitCs.deps.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\GradosFahrenheitCs\GradosFahrenheitCs\bin\Debug\netcoreapp3.1\GradosFahrenheitCs.runtimeconfig.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\GradosFahrenheitCs\GradosFahrenheitCs\bin\Debug\netcoreapp3.1\GradosFahrenheitCs.runtimeconfig.dev.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\GradosFahrenheitCs\GradosFahrenheitCs\bin\Debug\netcoreapp3.1\GradosFahrenheitCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\GradosFahrenheitCs\GradosFahrenheitCs\bin\Debug\netcoreapp3.1\GradosFahrenheitCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\GradosFahrenheitCs\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.csprojAssemblyReference.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\GradosFahrenheitCs\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.csproj.CoreCompileInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\GradosFahrenheitCs\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.AssemblyInfoInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\GradosFahrenheitCs\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.AssemblyInfo.cs
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\GradosFahrenheitCs\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\GradosFahrenheitCs\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\GradosFahrenheitCs\GradosFahrenheitCs\obj\Debug\netcoreapp3.1\GradosFahrenheitCs.genruntimeconfig.cache

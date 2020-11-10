@@ -1,0 +1,13 @@
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoCs\CotizaciónTerrenoCs\bin\Debug\netcoreapp3.1\CotizaciónTerrenoCs.exe
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoCs\CotizaciónTerrenoCs\bin\Debug\netcoreapp3.1\CotizaciónTerrenoCs.deps.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoCs\CotizaciónTerrenoCs\bin\Debug\netcoreapp3.1\CotizaciónTerrenoCs.runtimeconfig.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoCs\CotizaciónTerrenoCs\bin\Debug\netcoreapp3.1\CotizaciónTerrenoCs.runtimeconfig.dev.json
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoCs\CotizaciónTerrenoCs\bin\Debug\netcoreapp3.1\CotizaciónTerrenoCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoCs\CotizaciónTerrenoCs\bin\Debug\netcoreapp3.1\CotizaciónTerrenoCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoCs\CotizaciónTerrenoCs\obj\Debug\netcoreapp3.1\CotizaciónTerrenoCs.csprojAssemblyReference.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoCs\CotizaciónTerrenoCs\obj\Debug\netcoreapp3.1\CotizaciónTerrenoCs.csproj.CoreCompileInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoCs\CotizaciónTerrenoCs\obj\Debug\netcoreapp3.1\CotizaciónTerrenoCs.AssemblyInfoInputs.cache
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoCs\CotizaciónTerrenoCs\obj\Debug\netcoreapp3.1\CotizaciónTerrenoCs.AssemblyInfo.cs
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoCs\CotizaciónTerrenoCs\obj\Debug\netcoreapp3.1\CotizaciónTerrenoCs.dll
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoCs\CotizaciónTerrenoCs\obj\Debug\netcoreapp3.1\CotizaciónTerrenoCs.pdb
+E:\Github\operaciones variantes\pg2-s20e201-variables-operaciones-BarretoRubenEzequiel\VariablesOperaciones\CotizaciónTerrenoCs\CotizaciónTerrenoCs\obj\Debug\netcoreapp3.1\CotizaciónTerrenoCs.genruntimeconfig.cache
